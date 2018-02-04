@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="cornwallis.rnc" type="application/relax-ng-compact-syntax"?>
+<surrender><persons>Gen. Cornwallis to Gen. Washington</persons>, <date when="1781-10-18"><month>October</month>
+        <day>18</day>, <year>1781</year></date>
+    <paragraph n="1" topic="agree">I agree to open a treaty of capitulation upon the basis of the
+        garrisons of York and Gloucester, including seamen, being prisoners of war, without annexing
+        the condition of their being sent to Europe; but I expect to receive a compensation in the
+        articles of capitulation for the surrender of Gloucester in its present state of defence. </paragraph>
+    <paragraph n="2" topic="conditions">I shall, in particular, desire, <condition j="1"
+            kind="materials">that the Bonetta <ship>sloop of war</ship> may be left entirely at my
+            disposal<!-- I wanted to tag all of the types of conditions that Lord Cornwallis requests starting here--></condition>,
+        from the hour that the capitulation is signed, <condition j="2" kind="messenger">to receive
+            an <carrier>aid-de-camp</carrier> to carry my dispatches to <receiver>Sir Henry
+                Clinton</receiver>.</condition>
+        <condition j="3" kind="soldiers">Such soldiers as I may think proper to send as passengers
+            in her, to be manned with fifty men of her own crew</condition>, <condition j="4"
+            kind="travel">and to be permitted to sail without examination</condition>, when my
+        dispatches are ready: engaging, on my part, that the ship shall be brought back and
+        delivered to you, if she escapes the dangers of the sea, <condition j="5" kind="soldiers"
+            >that the crew and soldiers shall be accounted for in future exchanges</condition>, that
+        she shall carry off no officer without your consent, nor public property of any kind; and I
+        shall likewise desire, <condition j="6" kind="property">that the traders and inhabitants may
+            preserve their property</condition>, <condition j="7" kind="civilians">and that no
+            person may be punished or molested for having joined the British troops</condition>. </paragraph>
+    <paragraph n="3" topic="meet">If you choose to proceed to negociation on these grounds, I shall
+        appoint two field officers of my army to meet two officers from you, at any time and place
+        that you think proper, to digest the articles of capitulation.</paragraph></surrender>
