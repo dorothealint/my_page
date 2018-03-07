@@ -1,10 +1,28 @@
 html {
-    background-color: #CC9966;
+    background-color: #87cefa;
     color: #70003D;
     font-family: arial, helvetica, sans-serif;
 }
-
-img {
-    width: 50%;
-    height: 50%;
+div#top {width:90%; background-color:#ba55d3; padding:10px; border-top-right-radius: 45px; 
+border-bottom-left-radius: 45px; text-align:center; justify-content: space-around
 }
+
+div#centerImage img {width:50%}
+div#centerImage img {justify-content: center}
+
+div#opening {display: flex; text-align: end}
+div#opening img {width:150px}
+
+div#smaller {font-family:arial, helvetica, sans-serif; font-size: .3em; text-align:left; line-height:1.12}
+div#description {display: flex; justify-content: flex-end}
+img {
+    width: 25%;
+    height: 25%;
+}
+div#flex-container{
+                display: flex;
+
+                justify-content: space-between;
+                justify-content: flex-start;
+                padding:.5cm
+            }
