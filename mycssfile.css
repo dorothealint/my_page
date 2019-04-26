@@ -10,8 +10,9 @@ border-bottom-left-radius: 45px; text-align:center; justify-content: space-aroun
 div#centerImage img {width:50%}
 div#centerImage img {justify-content: center}
 
-div#opening {display: flex; text-align: end}
-div#opening img {width:150px}
+div#opening {display: flex}
+div#opening img {width: 40%;
+height: 50%}
 
 div#smaller {font-family:arial, helvetica, sans-serif; font-size: .3em; text-align:left; line-height:1.12}
 div#description {display: flex; justify-content: flex-end}
